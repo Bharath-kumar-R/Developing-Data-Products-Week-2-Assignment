@@ -25,4 +25,3 @@ addMarkers(lat=52.356977, lng=4.85506, popup = "Home sweet home")
 
 1.Does the web page feature a date and is this date less than two months before the date that you’re grading this assignment?
 2.Does the web page feature an interactive map that appears to have been created with Leaflet?
-
